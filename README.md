@@ -101,3 +101,8 @@ val = {
   password: the password that user inputs
 }
 ```
+
+
+### Additional tip:
+
+any time you use flexbox and align items center, all the items will be assigned in the middle, but you want some specific element to align at the start. use `align-self-start` in that specific element
